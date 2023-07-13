@@ -2,7 +2,7 @@
 
 Already English Language Teacher , 🌱 I’m currently learning React Front End .
 😄 Pronouns: Cheri
-📫 How to reach me saygu7117@gmail.com
+                     📫 How to reach me saygu7117@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
